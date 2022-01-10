@@ -108,6 +108,18 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "Obeast Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "angry",
+        "demanding",
+        "spoiled"
+      ],
+      "id": "11"
     }
   ]
 }
