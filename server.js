@@ -1,3 +1,4 @@
+// looks for index.js in the selected dirs
 const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
 
